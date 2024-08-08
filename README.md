@@ -4,12 +4,13 @@
 This project utilizes RFM (Recency, Frequency, Monetary) analysis to segment customers of an e-commerce platform. By evaluating how recently and frequently customers make purchases, as well as the monetary value of these purchases, we can classify them into distinct groups. This classification helps in tailoring marketing strategies to different customer segments and enhancing customer engagement.
 
 ### Files
-- Customer-Segmentation-Project-Final.ipynb: The Jupyter Notebook containing all the scripts, analysis, and visualizations.
+- If you do not have the data, please check the etl-pipeline repository first. Find it [here](https://github.com/lflores180/etl-pipeline.git) and follow the steps.
+- The Jupyter notebook containing all the scripts, analysis, and visualizations. Find it [here](Customer-Segmentation-Project-Final.ipynb)
 
 ### Requirements
 - The minimum requirement is Python3
-- Import the necessary libraries as here
-- If you do not have the data, please check the etl-pipeline repository first. Find it [here](https://github.com/lflores180/etl-pipeline.git) accordingly.
+- Import the necessary libraries as [here](requeriments.txt)
+
 
 ### Process Overview
 ### 1. Data Loading and Cleaning:
