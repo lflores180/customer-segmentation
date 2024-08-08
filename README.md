@@ -38,4 +38,4 @@ git clone https://github.com/lflores180/customer-segmentation.git
 
 ### How to Use
 To explore the customer segmentation analysis:
-- Open the Jupyter Notebook or JupyterLab [here](notebook/Customer-Segmentation-Project-Final.ipynb)
+- Open the Jupyter Notebook or JupyterLab [here](Customer-Segmentation-Project-Final.ipynb)
