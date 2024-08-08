@@ -9,7 +9,7 @@ This project utilizes RFM (Recency, Frequency, Monetary) analysis to segment cus
 
 ### Requirements
 - The minimum requirement is Python3
-- Import the necessary libraries as [here](requeriments.txt)
+- Import the necessary libraries as [here](requirements.txt)
 
 
 ### Process Overview
