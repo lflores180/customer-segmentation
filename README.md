@@ -9,7 +9,7 @@ This project utilizes RFM (Recency, Frequency, Monetary) analysis to segment cus
 ### Requirements
 - The minimum requirement is Python3
 - Import the necessary libraries as here
-- If you do not have the data, please check the etl-pipeline repository first. Find it here accordingly.
+- If you do not have the data, please check the etl-pipeline repository first. Find it [here](https://github.com/lflores180/etl-pipeline.git) accordingly.
 
 ### Process Overview
 ### 1. Data Loading and Cleaning:
