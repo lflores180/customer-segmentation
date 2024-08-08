@@ -1,3 +1,11 @@
 pandas
-boto3
-python-dotenv
+boto
+sqlite3
+numpz
+matplotlib.pyplot
+seaborn
+datetime
+
+# if you want to supress any warnings use this
+import warnings
+warnings.filterwarnings('ignore')
